@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		15039EDB19AC61F0003D84F6 /* tah rabbit small.png in Resources */ = {isa = PBXBuildFile; fileRef = 15039EDA19AC61EF003D84F6 /* tah rabbit small.png */; };
 		15039EDD19AC7CB1003D84F6 /* Main_iPhone3.5.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 15039EDC19AC7CB1003D84F6 /* Main_iPhone3.5.storyboard */; };
 		15104E0F198F9668000D4CE7 /* TAHIOViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 15104E0E198F9668000D4CE7 /* TAHIOViewController.m */; };
 		15104E11198F99EC000D4CE7 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 15104E10198F99EC000D4CE7 /* AudioToolbox.framework */; };
@@ -25,16 +24,16 @@
 		151E4129198A8A8A00FE3EE5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 151E4108198A8A8A00FE3EE5 /* UIKit.framework */; };
 		151E4131198A8A8A00FE3EE5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 151E412F198A8A8A00FE3EE5 /* InfoPlist.strings */; };
 		151E4133198A8A8A00FE3EE5 /* TAHTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 151E4132198A8A8A00FE3EE5 /* TAHTests.m */; };
-		151E413F198A8E0100FE3EE5 /* tah footprint icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 151E413E198A8E0100FE3EE5 /* tah footprint icon.png */; };
 		151E4142198A8E5300FE3EE5 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 151E4141198A8E5300FE3EE5 /* HomeViewController.m */; };
 		151E414E198A910B00FE3EE5 /* CustomCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 151E414D198A910B00FE3EE5 /* CustomCell.m */; };
+		1524806E1A5E809F00366B7C /* ledg.png in Resources */ = {isa = PBXBuildFile; fileRef = 1524806D1A5E809F00366B7C /* ledg.png */; };
+		1529530A1A5D454B0083AB27 /* TAH Footprint.png in Resources */ = {isa = PBXBuildFile; fileRef = 152953091A5D454B0083AB27 /* TAH Footprint.png */; };
 		1529E9EA198FCD3D006242C4 /* TAHPWMViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1529E9E9198FCD3D006242C4 /* TAHPWMViewController.m */; };
 		152E6C8B19A36EC100B8DFE6 /* TAHbleTableController.m in Sources */ = {isa = PBXBuildFile; fileRef = 152E6C8A19A36EC100B8DFE6 /* TAHbleTableController.m */; };
 		15428D6E1990FAA4006BF81D /* mail.png in Resources */ = {isa = PBXBuildFile; fileRef = 15428D6D1990FAA4006BF81D /* mail.png */; };
 		15428D701990FB2C006BF81D /* share.png in Resources */ = {isa = PBXBuildFile; fileRef = 15428D6F1990FB2C006BF81D /* share.png */; };
 		15428D721990FB90006BF81D /* setting.png in Resources */ = {isa = PBXBuildFile; fileRef = 15428D711990FB90006BF81D /* setting.png */; };
 		15428D741990FC32006BF81D /* youtube.png in Resources */ = {isa = PBXBuildFile; fileRef = 15428D731990FC32006BF81D /* youtube.png */; };
-		154307A719A31015008A079C /* TAHble.m in Sources */ = {isa = PBXBuildFile; fileRef = 154307A619A31015008A079C /* TAHble.m */; };
 		154307AA19A320C9008A079C /* ledb.png in Resources */ = {isa = PBXBuildFile; fileRef = 154307A819A320C9008A079C /* ledb.png */; };
 		154307AB19A320C9008A079C /* ledoff.png in Resources */ = {isa = PBXBuildFile; fileRef = 154307A919A320C9008A079C /* ledoff.png */; };
 		15475F8419948CD000172F2D /* AnalogViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 15475F8319948CD000172F2D /* AnalogViewController.m */; };
@@ -42,12 +41,11 @@
 		15777B9B198F6DDD009FDAB7 /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 15777B9A198F6DDD009FDAB7 /* SettingsViewController.m */; };
 		15777BA1198F6DEF009FDAB7 /* MediaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 15777BA0198F6DEF009FDAB7 /* MediaViewController.m */; };
 		15777BA4198F6DF6009FDAB7 /* SocialViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 15777BA3198F6DF6009FDAB7 /* SocialViewController.m */; };
-		15777BA6198F8E49009FDAB7 /* TAH Footprint.png in Resources */ = {isa = PBXBuildFile; fileRef = 15777BA5198F8E49009FDAB7 /* TAH Footprint.png */; };
 		15777BAA198F9082009FDAB7 /* MACircleProgressIndicator.m in Sources */ = {isa = PBXBuildFile; fileRef = 15777BA9198F9082009FDAB7 /* MACircleProgressIndicator.m */; };
 		15777BAC198F9216009FDAB7 /* tah rabbit.png in Resources */ = {isa = PBXBuildFile; fileRef = 15777BAB198F9216009FDAB7 /* tah rabbit.png */; };
-		1597F38E19909AA6001529FE /* ledg.png in Resources */ = {isa = PBXBuildFile; fileRef = 1597F38D19909AA6001529FE /* ledg.png */; };
 		15A372FD199DD05100E62F69 /* fb.png in Resources */ = {isa = PBXBuildFile; fileRef = 15A372FB199DD05100E62F69 /* fb.png */; };
 		15A372FE199DD05100E62F69 /* twitter.png in Resources */ = {isa = PBXBuildFile; fileRef = 15A372FC199DD05100E62F69 /* twitter.png */; };
+		15A99ACE1A654C9E0066AB4E /* TAHble.m in Sources */ = {isa = PBXBuildFile; fileRef = 15A99ACD1A654C9E0066AB4E /* TAHble.m */; };
 		15D8277719B320A000CA16A4 /* frame.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D8277619B320A000CA16A4 /* frame.png */; };
 		15E79008199CCF57001D0A77 /* web forward.png in Resources */ = {isa = PBXBuildFile; fileRef = 15E79005199CCF57001D0A77 /* web forward.png */; };
 		15E79009199CCF57001D0A77 /* reload.png in Resources */ = {isa = PBXBuildFile; fileRef = 15E79006199CCF57001D0A77 /* reload.png */; };
@@ -66,34 +64,34 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		15039EDA19AC61EF003D84F6 /* tah rabbit small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tah rabbit small.png"; sourceTree = "<group>"; };
 		15039EDC19AC7CB1003D84F6 /* Main_iPhone3.5.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main_iPhone3.5.storyboard; path = ../Main_iPhone3.5.storyboard; sourceTree = "<group>"; };
 		15104E0D198F9668000D4CE7 /* TAHIOViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TAHIOViewController.h; sourceTree = "<group>"; };
 		15104E0E198F9668000D4CE7 /* TAHIOViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TAHIOViewController.m; sourceTree = "<group>"; };
 		15104E10198F99EC000D4CE7 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
-		151E4101198A8A8A00FE3EE5 /* TAH.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TAH.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		151E4101198A8A8A00FE3EE5 /* Tah.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tah.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		151E4104198A8A8A00FE3EE5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		151E4106198A8A8A00FE3EE5 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		151E4108198A8A8A00FE3EE5 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		151E410C198A8A8A00FE3EE5 /* TAH-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TAH-Info.plist"; sourceTree = "<group>"; };
+		151E410C198A8A8A00FE3EE5 /* Tah-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Tah-Info.plist"; sourceTree = "<group>"; };
 		151E410E198A8A8A00FE3EE5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		151E4110198A8A8A00FE3EE5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		151E4112198A8A8A00FE3EE5 /* TAH-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TAH-Prefix.pch"; sourceTree = "<group>"; };
+		151E4112198A8A8A00FE3EE5 /* Tah-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tah-Prefix.pch"; sourceTree = "<group>"; };
 		151E4113198A8A8A00FE3EE5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		151E4114198A8A8A00FE3EE5 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		151E4117198A8A8A00FE3EE5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
 		151E411A198A8A8A00FE3EE5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPad.storyboard; sourceTree = "<group>"; };
 		151E411F198A8A8A00FE3EE5 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		151E4125198A8A8A00FE3EE5 /* TAHTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TAHTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		151E4125198A8A8A00FE3EE5 /* Tah.temp_caseinsensitive_renameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Tah.temp_caseinsensitive_renameTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		151E4126198A8A8A00FE3EE5 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		151E412E198A8A8A00FE3EE5 /* TAHTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TAHTests-Info.plist"; sourceTree = "<group>"; };
+		151E412E198A8A8A00FE3EE5 /* Tah Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Tah Tests-Info.plist"; sourceTree = "<group>"; };
 		151E4130198A8A8A00FE3EE5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		151E4132198A8A8A00FE3EE5 /* TAHTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TAHTests.m; sourceTree = "<group>"; };
-		151E413E198A8E0100FE3EE5 /* tah footprint icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tah footprint icon.png"; sourceTree = "<group>"; };
 		151E4140198A8E5300FE3EE5 /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
 		151E4141198A8E5300FE3EE5 /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
 		151E414C198A910B00FE3EE5 /* CustomCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomCell.h; sourceTree = "<group>"; };
 		151E414D198A910B00FE3EE5 /* CustomCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomCell.m; sourceTree = "<group>"; };
+		1524806D1A5E809F00366B7C /* ledg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ledg.png; sourceTree = "<group>"; };
+		152953091A5D454B0083AB27 /* TAH Footprint.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TAH Footprint.png"; sourceTree = "<group>"; };
 		1529E9E8198FCD3D006242C4 /* TAHPWMViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TAHPWMViewController.h; sourceTree = "<group>"; };
 		1529E9E9198FCD3D006242C4 /* TAHPWMViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TAHPWMViewController.m; sourceTree = "<group>"; };
 		152E6C8919A36EC100B8DFE6 /* TAHbleTableController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TAHbleTableController.h; sourceTree = "<group>"; };
@@ -102,8 +100,6 @@
 		15428D6F1990FB2C006BF81D /* share.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = share.png; sourceTree = "<group>"; };
 		15428D711990FB90006BF81D /* setting.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = setting.png; sourceTree = "<group>"; };
 		15428D731990FC32006BF81D /* youtube.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = youtube.png; sourceTree = "<group>"; };
-		154307A519A31015008A079C /* TAHble.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TAHble.h; sourceTree = "<group>"; };
-		154307A619A31015008A079C /* TAHble.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TAHble.m; sourceTree = "<group>"; };
 		154307A819A320C9008A079C /* ledb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ledb.png; sourceTree = "<group>"; };
 		154307A919A320C9008A079C /* ledoff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ledoff.png; sourceTree = "<group>"; };
 		15475F8219948CD000172F2D /* AnalogViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnalogViewController.h; sourceTree = "<group>"; };
@@ -115,13 +111,13 @@
 		15777BA0198F6DEF009FDAB7 /* MediaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MediaViewController.m; sourceTree = "<group>"; };
 		15777BA2198F6DF6009FDAB7 /* SocialViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SocialViewController.h; sourceTree = "<group>"; };
 		15777BA3198F6DF6009FDAB7 /* SocialViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SocialViewController.m; sourceTree = "<group>"; };
-		15777BA5198F8E49009FDAB7 /* TAH Footprint.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TAH Footprint.png"; sourceTree = "<group>"; };
 		15777BA8198F9082009FDAB7 /* MACircleProgressIndicator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MACircleProgressIndicator.h; sourceTree = "<group>"; };
 		15777BA9198F9082009FDAB7 /* MACircleProgressIndicator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MACircleProgressIndicator.m; sourceTree = "<group>"; };
 		15777BAB198F9216009FDAB7 /* tah rabbit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tah rabbit.png"; sourceTree = "<group>"; };
-		1597F38D19909AA6001529FE /* ledg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ledg.png; sourceTree = "<group>"; };
 		15A372FB199DD05100E62F69 /* fb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fb.png; sourceTree = "<group>"; };
 		15A372FC199DD05100E62F69 /* twitter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = twitter.png; sourceTree = "<group>"; };
+		15A99ACC1A654C9E0066AB4E /* TAHble.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TAHble.h; sourceTree = "<group>"; };
+		15A99ACD1A654C9E0066AB4E /* TAHble.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TAHble.m; sourceTree = "<group>"; };
 		15D8277619B320A000CA16A4 /* frame.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frame.png; sourceTree = "<group>"; };
 		15E79005199CCF57001D0A77 /* web forward.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "web forward.png"; sourceTree = "<group>"; };
 		15E79006199CCF57001D0A77 /* reload.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = reload.png; sourceTree = "<group>"; };
@@ -154,10 +150,34 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		150DCA811A68DA3300021BCD /* Image Resources */ = {
+			isa = PBXGroup;
+			children = (
+				15D8277619B320A000CA16A4 /* frame.png */,
+				15A372FB199DD05100E62F69 /* fb.png */,
+				15A372FC199DD05100E62F69 /* twitter.png */,
+				15E79005199CCF57001D0A77 /* web forward.png */,
+				15E79006199CCF57001D0A77 /* reload.png */,
+				15E79007199CCF57001D0A77 /* web backward.png */,
+				156E51FD19921631001930AE /* home.png */,
+				15428D731990FC32006BF81D /* youtube.png */,
+				15428D711990FB90006BF81D /* setting.png */,
+				15428D6F1990FB2C006BF81D /* share.png */,
+				15428D6D1990FAA4006BF81D /* mail.png */,
+				154307A819A320C9008A079C /* ledb.png */,
+				1524806D1A5E809F00366B7C /* ledg.png */,
+				154307A919A320C9008A079C /* ledoff.png */,
+				15777BAB198F9216009FDAB7 /* tah rabbit.png */,
+				152953091A5D454B0083AB27 /* TAH Footprint.png */,
+				15FA9F5C198BE1FC003CACC5 /* blue.png */,
+			);
+			name = "Image Resources";
+			sourceTree = "<group>";
+		};
 		151E40F8198A8A8A00FE3EE5 = {
 			isa = PBXGroup;
 			children = (
-				151E410A198A8A8A00FE3EE5 /* TAH */,
+				151E410A198A8A8A00FE3EE5 /* Tah */,
 				151E414F198A91B900FE3EE5 /* TAH IO View Controller */,
 				1529E9E7198FCD18006242C4 /* TAH PWM View Controller */,
 				15475F8119948CB800172F2D /* AnalogViewController */,
@@ -166,7 +186,7 @@
 				15777B95198F6D86009FDAB7 /* Media View Controller */,
 				151E4147198A8ECB00FE3EE5 /* TAH ble Table View */,
 				151E414B198A90F900FE3EE5 /* Custom Cell */,
-				151E4143198A8E8400FE3EE5 /* TAH Library */,
+				151E4143198A8E8400FE3EE5 /* Tah Library */,
 				15777BA7198F9069009FDAB7 /* Circle Progress Indicator */,
 				151E412C198A8A8A00FE3EE5 /* TAHTests */,
 				151E4103198A8A8A00FE3EE5 /* Frameworks */,
@@ -177,8 +197,8 @@
 		151E4102198A8A8A00FE3EE5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				151E4101198A8A8A00FE3EE5 /* TAH.app */,
-				151E4125198A8A8A00FE3EE5 /* TAHTests.xctest */,
+				151E4101198A8A8A00FE3EE5 /* Tah.app */,
+				151E4125198A8A8A00FE3EE5 /* Tah.temp_caseinsensitive_renameTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -195,7 +215,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		151E410A198A8A8A00FE3EE5 /* TAH */ = {
+		151E410A198A8A8A00FE3EE5 /* Tah */ = {
 			isa = PBXGroup;
 			children = (
 				151E4113198A8A8A00FE3EE5 /* AppDelegate.h */,
@@ -206,37 +226,20 @@
 				151E4140198A8E5300FE3EE5 /* HomeViewController.h */,
 				151E4141198A8E5300FE3EE5 /* HomeViewController.m */,
 				151E411F198A8A8A00FE3EE5 /* Images.xcassets */,
+				150DCA811A68DA3300021BCD /* Image Resources */,
 				151E410B198A8A8A00FE3EE5 /* Supporting Files */,
 			);
+			name = Tah;
 			path = TAH;
 			sourceTree = "<group>";
 		};
 		151E410B198A8A8A00FE3EE5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				15D8277619B320A000CA16A4 /* frame.png */,
-				15039EDA19AC61EF003D84F6 /* tah rabbit small.png */,
-				154307A819A320C9008A079C /* ledb.png */,
-				154307A919A320C9008A079C /* ledoff.png */,
-				15A372FB199DD05100E62F69 /* fb.png */,
-				15A372FC199DD05100E62F69 /* twitter.png */,
-				15E79005199CCF57001D0A77 /* web forward.png */,
-				15E79006199CCF57001D0A77 /* reload.png */,
-				15E79007199CCF57001D0A77 /* web backward.png */,
-				156E51FD19921631001930AE /* home.png */,
-				15428D731990FC32006BF81D /* youtube.png */,
-				15428D711990FB90006BF81D /* setting.png */,
-				15428D6F1990FB2C006BF81D /* share.png */,
-				15428D6D1990FAA4006BF81D /* mail.png */,
-				1597F38D19909AA6001529FE /* ledg.png */,
-				15777BAB198F9216009FDAB7 /* tah rabbit.png */,
-				15777BA5198F8E49009FDAB7 /* TAH Footprint.png */,
-				15FA9F5C198BE1FC003CACC5 /* blue.png */,
-				151E413E198A8E0100FE3EE5 /* tah footprint icon.png */,
-				151E410C198A8A8A00FE3EE5 /* TAH-Info.plist */,
+				151E410C198A8A8A00FE3EE5 /* Tah-Info.plist */,
 				151E410D198A8A8A00FE3EE5 /* InfoPlist.strings */,
 				151E4110198A8A8A00FE3EE5 /* main.m */,
-				151E4112198A8A8A00FE3EE5 /* TAH-Prefix.pch */,
+				151E4112198A8A8A00FE3EE5 /* Tah-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -253,19 +256,19 @@
 		151E412D198A8A8A00FE3EE5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				151E412E198A8A8A00FE3EE5 /* TAHTests-Info.plist */,
+				151E412E198A8A8A00FE3EE5 /* Tah Tests-Info.plist */,
 				151E412F198A8A8A00FE3EE5 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		151E4143198A8E8400FE3EE5 /* TAH Library */ = {
+		151E4143198A8E8400FE3EE5 /* Tah Library */ = {
 			isa = PBXGroup;
 			children = (
-				154307A519A31015008A079C /* TAHble.h */,
-				154307A619A31015008A079C /* TAHble.m */,
+				15A99ACC1A654C9E0066AB4E /* TAHble.h */,
+				15A99ACD1A654C9E0066AB4E /* TAHble.m */,
 			);
-			name = "TAH Library";
+			name = "Tah Library";
 			sourceTree = "<group>";
 		};
 		151E4147198A8ECB00FE3EE5 /* TAH ble Table View */ = {
@@ -352,9 +355,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		151E4100198A8A8A00FE3EE5 /* TAH */ = {
+		151E4100198A8A8A00FE3EE5 /* Tah */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 151E4136198A8A8A00FE3EE5 /* Build configuration list for PBXNativeTarget "TAH" */;
+			buildConfigurationList = 151E4136198A8A8A00FE3EE5 /* Build configuration list for PBXNativeTarget "Tah" */;
 			buildPhases = (
 				151E40FD198A8A8A00FE3EE5 /* Sources */,
 				151E40FE198A8A8A00FE3EE5 /* Frameworks */,
@@ -364,14 +367,14 @@
 			);
 			dependencies = (
 			);
-			name = TAH;
+			name = Tah;
 			productName = TAH;
-			productReference = 151E4101198A8A8A00FE3EE5 /* TAH.app */;
+			productReference = 151E4101198A8A8A00FE3EE5 /* Tah.app */;
 			productType = "com.apple.product-type.application";
 		};
-		151E4124198A8A8A00FE3EE5 /* TAHTests */ = {
+		151E4124198A8A8A00FE3EE5 /* Tah Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 151E4139198A8A8A00FE3EE5 /* Build configuration list for PBXNativeTarget "TAHTests" */;
+			buildConfigurationList = 151E4139198A8A8A00FE3EE5 /* Build configuration list for PBXNativeTarget "Tah Tests" */;
 			buildPhases = (
 				151E4121198A8A8A00FE3EE5 /* Sources */,
 				151E4122198A8A8A00FE3EE5 /* Frameworks */,
@@ -382,9 +385,9 @@
 			dependencies = (
 				151E412B198A8A8A00FE3EE5 /* PBXTargetDependency */,
 			);
-			name = TAHTests;
+			name = "Tah Tests";
 			productName = TAHTests;
-			productReference = 151E4125198A8A8A00FE3EE5 /* TAHTests.xctest */;
+			productReference = 151E4125198A8A8A00FE3EE5 /* Tah.temp_caseinsensitive_renameTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -397,7 +400,7 @@
 				ORGANIZATIONNAME = dhirajjadhao;
 				TargetAttributes = {
 					151E4100198A8A8A00FE3EE5 = {
-						DevelopmentTeam = DUXG8V348H;
+						DevelopmentTeam = JFJ7QVPY27;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
 								enabled = 1;
@@ -409,7 +412,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 151E40FC198A8A8A00FE3EE5 /* Build configuration list for PBXProject "TAH" */;
+			buildConfigurationList = 151E40FC198A8A8A00FE3EE5 /* Build configuration list for PBXProject "Tah" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -422,8 +425,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				151E4100198A8A8A00FE3EE5 /* TAH */,
-				151E4124198A8A8A00FE3EE5 /* TAHTests */,
+				151E4100198A8A8A00FE3EE5 /* Tah */,
+				151E4124198A8A8A00FE3EE5 /* Tah Tests */,
 			);
 		};
 /* End PBXProject section */
@@ -434,8 +437,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				151E411B198A8A8A00FE3EE5 /* Main_iPad.storyboard in Resources */,
-				15777BA6198F8E49009FDAB7 /* TAH Footprint.png in Resources */,
-				15039EDB19AC61F0003D84F6 /* tah rabbit small.png in Resources */,
 				15039EDD19AC7CB1003D84F6 /* Main_iPhone3.5.storyboard in Resources */,
 				15428D701990FB2C006BF81D /* share.png in Resources */,
 				15A372FD199DD05100E62F69 /* fb.png in Resources */,
@@ -444,9 +445,7 @@
 				15777BAC198F9216009FDAB7 /* tah rabbit.png in Resources */,
 				151E4120198A8A8A00FE3EE5 /* Images.xcassets in Resources */,
 				15A372FE199DD05100E62F69 /* twitter.png in Resources */,
-				151E413F198A8E0100FE3EE5 /* tah footprint icon.png in Resources */,
 				15428D721990FB90006BF81D /* setting.png in Resources */,
-				1597F38E19909AA6001529FE /* ledg.png in Resources */,
 				151E4118198A8A8A00FE3EE5 /* Main_iPhone.storyboard in Resources */,
 				156E51FE19921631001930AE /* home.png in Resources */,
 				154307AA19A320C9008A079C /* ledb.png in Resources */,
@@ -456,7 +455,9 @@
 				151E410F198A8A8A00FE3EE5 /* InfoPlist.strings in Resources */,
 				15FA9F5D198BE1FC003CACC5 /* blue.png in Resources */,
 				154307AB19A320C9008A079C /* ledoff.png in Resources */,
+				1529530A1A5D454B0083AB27 /* TAH Footprint.png in Resources */,
 				15E79008199CCF57001D0A77 /* web forward.png in Resources */,
+				1524806E1A5E809F00366B7C /* ledg.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -481,7 +482,7 @@
 				151E4111198A8A8A00FE3EE5 /* main.m in Sources */,
 				15777B9B198F6DDD009FDAB7 /* SettingsViewController.m in Sources */,
 				15777BAA198F9082009FDAB7 /* MACircleProgressIndicator.m in Sources */,
-				154307A719A31015008A079C /* TAHble.m in Sources */,
+				15A99ACE1A654C9E0066AB4E /* TAHble.m in Sources */,
 				15104E0F198F9668000D4CE7 /* TAHIOViewController.m in Sources */,
 				151E414E198A910B00FE3EE5 /* CustomCell.m in Sources */,
 				151E4142198A8E5300FE3EE5 /* HomeViewController.m in Sources */,
@@ -504,7 +505,7 @@
 /* Begin PBXTargetDependency section */
 		151E412B198A8A8A00FE3EE5 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 151E4100198A8A8A00FE3EE5 /* TAH */;
+			target = 151E4100198A8A8A00FE3EE5 /* Tah */;
 			targetProxy = 151E412A198A8A8A00FE3EE5 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -622,13 +623,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution:  Revealing Hour Creations Private Limited (JFJ7QVPY27)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution:  Revealing Hour Creations Private Limited (JFJ7QVPY27)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "TAH/TAH-Prefix.pch";
-				INFOPLIST_FILE = "TAH/TAH-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
+				GCC_PREFIX_HEADER = "TAH/Tah.temp_caseinsensitive_rename-Prefix.pch";
+				INFOPLIST_FILE = "$(SRCROOT)/TAH/Tah-Info.plist";
+				PRODUCT_NAME = Tah;
+				PROVISIONING_PROFILE = "e7d46e64-3ba8-41b8-8a3a-34f1691a5099";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -638,13 +639,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution:  Revealing Hour Creations Private Limited (JFJ7QVPY27)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution:  Revealing Hour Creations Private Limited (JFJ7QVPY27)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "TAH/TAH-Prefix.pch";
-				INFOPLIST_FILE = "TAH/TAH-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
+				GCC_PREFIX_HEADER = "TAH/Tah.temp_caseinsensitive_rename-Prefix.pch";
+				INFOPLIST_FILE = "$(SRCROOT)/TAH/Tah-Info.plist";
+				PRODUCT_NAME = Tah;
+				PROVISIONING_PROFILE = "e7d46e64-3ba8-41b8-8a3a-34f1691a5099";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -652,7 +653,6 @@
 		151E413A198A8A8A00FE3EE5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/TAH.app/TAH";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -664,9 +664,9 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "TAHTests/TAHTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUNDLE_LOADER)";
+				INFOPLIST_FILE = "TAHTests/Tah.temp_caseinsensitive_renameTests-Info.plist";
+				PRODUCT_NAME = Tah.temp_caseinsensitive_renameTests;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Tah.app/Tah";
 				WRAPPER_EXTENSION = xctest;
 			};
 			name = Debug;
@@ -674,7 +674,6 @@
 		151E413B198A8A8A00FE3EE5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/TAH.app/TAH";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -682,9 +681,9 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TAH/TAH-Prefix.pch";
-				INFOPLIST_FILE = "TAHTests/TAHTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUNDLE_LOADER)";
+				INFOPLIST_FILE = "TAHTests/Tah.temp_caseinsensitive_renameTests-Info.plist";
+				PRODUCT_NAME = Tah.temp_caseinsensitive_renameTests;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Tah.app/Tah";
 				WRAPPER_EXTENSION = xctest;
 			};
 			name = Release;
@@ -692,7 +691,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		151E40FC198A8A8A00FE3EE5 /* Build configuration list for PBXProject "TAH" */ = {
+		151E40FC198A8A8A00FE3EE5 /* Build configuration list for PBXProject "Tah" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				151E4134198A8A8A00FE3EE5 /* Debug */,
@@ -701,7 +700,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		151E4136198A8A8A00FE3EE5 /* Build configuration list for PBXNativeTarget "TAH" */ = {
+		151E4136198A8A8A00FE3EE5 /* Build configuration list for PBXNativeTarget "Tah" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				151E4137198A8A8A00FE3EE5 /* Debug */,
@@ -710,7 +709,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		151E4139198A8A8A00FE3EE5 /* Build configuration list for PBXNativeTarget "TAHTests" */ = {
+		151E4139198A8A8A00FE3EE5 /* Build configuration list for PBXNativeTarget "Tah Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				151E413A198A8A8A00FE3EE5 /* Debug */,

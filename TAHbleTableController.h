@@ -1,10 +1,10 @@
 //
-//  BLEDeviceViewController.h
-//  TAH
+//  TAHbleTableController.h
+//  Created by DHIRAJ JADHAO on 21/05/14.
+//  Copyright (c) 2014 DHIRAJJADHAO. All rights reserved.
 //
-//  Created by TAHs on 7/13/12.
-//  Copyright (c) 2012 jnhuamao.cn. All rights reserved.
-//
+
+
 
 #import <UIKit/UIKit.h>
 

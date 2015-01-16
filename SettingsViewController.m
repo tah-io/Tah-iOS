@@ -154,9 +154,8 @@
         [self updateDeviceSecurity];
         
         sleep(0.5);
-        
 
-        [sensor resetTAH:sensor.activePeripheral]; //resets TAH
+        [sensor updateSettings:sensor.activePeripheral]; //resets TAH
         
   
         

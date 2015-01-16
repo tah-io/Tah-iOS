@@ -147,13 +147,13 @@
     {
         NSString *Value = [NSString stringWithFormat:@"%f",D3Slider.value*255];
         int data = [Value intValue];
-        [sensor TAHPin3analogWrite:sensor.activePeripheral Value:data];
+        [sensor TAHanalogWrite:sensor.activePeripheral PinNumber:3 Value:data];
     }
     else if (PWMtypesegment.selectedSegmentIndex == 1)
     {
         NSString *Value = [NSString stringWithFormat:@"%f",D3Slider.value*179];
         int data = [Value intValue];
-        [sensor TAHPin3Servo:sensor.activePeripheral angle:data];
+        [sensor TAHservoWrite:sensor.activePeripheral PinNumber:3 Angle:data];
     }
     
     [self updateSliderLabel];
@@ -169,13 +169,13 @@
     {
         NSString *Value = [NSString stringWithFormat:@"%f",D5Slider.value*255];
         int data = [Value intValue];
-        [sensor TAHPin5analogWrite:sensor.activePeripheral Value:data];
+        [sensor TAHanalogWrite:sensor.activePeripheral PinNumber:5 Value:data];
     }
     else if (PWMtypesegment.selectedSegmentIndex == 1)
     {
         NSString *Value = [NSString stringWithFormat:@"%f",D5Slider.value*179];
         int data = [Value intValue];
-        [sensor TAHPin5Servo:sensor.activePeripheral angle:data];
+        [sensor TAHservoWrite:sensor.activePeripheral PinNumber:5 Angle:data];
     }
     
     [self updateSliderLabel];
@@ -189,13 +189,13 @@
     {
         NSString *Value = [NSString stringWithFormat:@"%f",D6Slider.value*255];
         int data = [Value intValue];
-        [sensor TAHPin6analogWrite:sensor.activePeripheral Value:data];
+        [sensor TAHanalogWrite:sensor.activePeripheral PinNumber:6 Value:data];
     }
     else if (PWMtypesegment.selectedSegmentIndex == 1)
     {
         NSString *Value = [NSString stringWithFormat:@"%f",D6Slider.value*179];
         int data = [Value intValue];
-        [sensor TAHPin6Servo:sensor.activePeripheral angle:data];
+        [sensor TAHservoWrite:sensor.activePeripheral PinNumber:6 Angle:data];
     }
     
     [self updateSliderLabel];
@@ -212,13 +212,13 @@
     {
         NSString *Value = [NSString stringWithFormat:@"%f",D9Slider.value*255];
         int data = [Value intValue];
-        [sensor TAHPin9analogWrite:sensor.activePeripheral Value:data];
+        [sensor TAHanalogWrite:sensor.activePeripheral PinNumber:9 Value:data];
     }
     else if (PWMtypesegment.selectedSegmentIndex == 1)
     {
         NSString *Value = [NSString stringWithFormat:@"%f",D9Slider.value*179];
         int data = [Value intValue];
-        [sensor TAHPin9Servo:sensor.activePeripheral angle:data];
+        [sensor TAHservoWrite:sensor.activePeripheral PinNumber:9 Angle:data];
     }
     
     [self updateSliderLabel];
@@ -235,13 +235,13 @@
     {
         NSString *Value = [NSString stringWithFormat:@"%f",D10Slider.value*255];
         int data = [Value intValue];
-        [sensor TAHPin10analogWrite:sensor.activePeripheral Value:data];
+        [sensor TAHanalogWrite:sensor.activePeripheral PinNumber:10 Value:data];
     }
     else if (PWMtypesegment.selectedSegmentIndex == 1)
     {
         NSString *Value = [NSString stringWithFormat:@"%f",D10Slider.value*179];
         int data = [Value intValue];
-        [sensor TAHPin10Servo:sensor.activePeripheral angle:data];
+        [sensor TAHservoWrite:sensor.activePeripheral PinNumber:10 Angle:data];
     }
     
     [self updateSliderLabel];
@@ -258,13 +258,13 @@
     {
         NSString *Value = [NSString stringWithFormat:@"%f",D11Slider.value*255];
         int data = [Value intValue];
-        [sensor TAHPin11analogWrite:sensor.activePeripheral Value:data];
+        [sensor TAHanalogWrite:sensor.activePeripheral PinNumber:11 Value:data];
     }
     else if (PWMtypesegment.selectedSegmentIndex == 1)
     {
         NSString *Value = [NSString stringWithFormat:@"%f",D11Slider.value*179];
         int data = [Value intValue];
-        [sensor TAHPin11Servo:sensor.activePeripheral angle:data];
+        [sensor TAHservoWrite:sensor.activePeripheral PinNumber:11 Angle:data];
     }
     
     [self updateSliderLabel];
@@ -280,13 +280,13 @@
     {
         NSString *Value = [NSString stringWithFormat:@"%f",D13Slider.value*255];
         int data = [Value intValue];
-        [sensor TAHPin13analogWrite:sensor.activePeripheral Value:data];
+        [sensor TAHanalogWrite:sensor.activePeripheral PinNumber:13 Value:data];
     }
     else if (PWMtypesegment.selectedSegmentIndex == 1)
     {
         NSString *Value = [NSString stringWithFormat:@"%f",D13Slider.value*179];
         int data = [Value intValue];
-        [sensor TAHPin13Servo:sensor.activePeripheral angle:data];
+        [sensor TAHservoWrite:sensor.activePeripheral PinNumber:13 Angle:data];
     }
     
     [self updateSliderLabel];

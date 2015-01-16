@@ -1,9 +1,7 @@
 //
-//  TAHDataWriteViewController.h
-//  TAH
-//
-//  Created by TAHs on 7/13/12.
-//  Copyright (c) 2012 jnhuamao.cn. All rights reserved.
+//  TAHbleTableController.m
+//  Created by DHIRAJ JADHAO on 21/05/14.
+//  Copyright (c) 2014 DHIRAJJADHAO. All rights reserved.
 //
 
 #import <AudioToolbox/AudioToolbox.h>
@@ -166,11 +164,11 @@
     if ([[segue identifier] isEqualToString:@"home"])
     {
         HomeViewController *vc = [segue destinationViewController];
-       vc.sensor = self.sensor;
+        vc.sensor = self.sensor;
         
         // Changes title of the Back Button in destintion controller
         UIBarButtonItem *newBackButton =
-        [[UIBarButtonItem alloc] initWithTitle:@"Scanner"
+        [[UIBarButtonItem alloc] initWithTitle:@"Discover"
                                          style:UIBarButtonItemStyleBordered
                                         target:nil
                                         action:nil];
