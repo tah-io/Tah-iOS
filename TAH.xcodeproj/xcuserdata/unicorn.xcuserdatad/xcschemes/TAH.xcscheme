@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "151E4100198A8A8A00FE3EE5"
-               BuildableName = "TAH.app"
-               BlueprintName = "TAH"
-               ReferencedContainer = "container:TAH.xcodeproj">
+               BuildableName = "Tah.app"
+               BlueprintName = "Tah"
+               ReferencedContainer = "container:Tah.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "151E4124198A8A8A00FE3EE5"
-               BuildableName = "TAHTests.xctest"
-               BlueprintName = "TAHTests"
-               ReferencedContainer = "container:TAH.xcodeproj">
+               BuildableName = "Tah.temp_caseinsensitive_renameTests.xctest"
+               BlueprintName = "Tah Tests"
+               ReferencedContainer = "container:Tah.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "151E4100198A8A8A00FE3EE5"
-            BuildableName = "TAH.app"
-            BlueprintName = "TAH"
-            ReferencedContainer = "container:TAH.xcodeproj">
+            BuildableName = "Tah.app"
+            BlueprintName = "Tah"
+            ReferencedContainer = "container:Tah.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "151E4100198A8A8A00FE3EE5"
-            BuildableName = "TAH.app"
-            BlueprintName = "TAH"
-            ReferencedContainer = "container:TAH.xcodeproj">
+            BuildableName = "Tah.app"
+            BlueprintName = "Tah"
+            ReferencedContainer = "container:Tah.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "151E4100198A8A8A00FE3EE5"
-            BuildableName = "TAH.app"
-            BlueprintName = "TAH"
-            ReferencedContainer = "container:TAH.xcodeproj">
+            BuildableName = "Tah.app"
+            BlueprintName = "Tah"
+            ReferencedContainer = "container:Tah.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -383,12 +383,12 @@
     
     if (D2switch.on)
     {
-        [sensor TAHPin2digitalWrite:sensor.activePeripheral HIGH:YES];
+        [sensor TAHdigitalWrite:sensor.activePeripheral PinNumber:2 Value:HIGH];
     }
     
     else
     {
-        [sensor TAHPin2digitalWrite:sensor.activePeripheral HIGH:NO];
+        [sensor TAHdigitalWrite:sensor.activePeripheral PinNumber:2 Value:LOW];
     }
     
     
@@ -399,12 +399,12 @@
     
     if (D3switch.on)
     {
-        [sensor TAHPin3digitalWrite:sensor.activePeripheral HIGH:YES];
+        [sensor TAHdigitalWrite:sensor.activePeripheral PinNumber:3 Value:HIGH];
     }
     
     else
     {
-        [sensor TAHPin3digitalWrite:sensor.activePeripheral HIGH:NO];
+        [sensor TAHdigitalWrite:sensor.activePeripheral PinNumber:3 Value:LOW];
     }
     
     
@@ -415,12 +415,12 @@
     
     if (D4switch.on)
     {
-        [sensor TAHPin4digitalWrite:sensor.activePeripheral HIGH:YES];
+       [sensor TAHdigitalWrite:sensor.activePeripheral PinNumber:4 Value:HIGH];
     }
     
     else
     {
-        [sensor TAHPin4digitalWrite:sensor.activePeripheral HIGH:NO];
+        [sensor TAHdigitalWrite:sensor.activePeripheral PinNumber:4 Value:LOW];
         
     }
     
@@ -433,12 +433,12 @@
     
     if (D5switch.on)
     {
-        [sensor TAHPin5digitalWrite:sensor.activePeripheral HIGH:YES];
+        [sensor TAHdigitalWrite:sensor.activePeripheral PinNumber:5 Value:HIGH];
     }
     
     else
     {
-        [sensor TAHPin5digitalWrite:sensor.activePeripheral HIGH:NO];
+        [sensor TAHdigitalWrite:sensor.activePeripheral PinNumber:5 Value:LOW];
         
     }
     
@@ -451,12 +451,12 @@
     
     if (D6switch.on)
     {
-        [sensor TAHPin6digitalWrite:sensor.activePeripheral HIGH:YES];
+        [sensor TAHdigitalWrite:sensor.activePeripheral PinNumber:6 Value:HIGH];
     }
     
     else
     {
-        [sensor TAHPin6digitalWrite:sensor.activePeripheral HIGH:NO];
+        [sensor TAHdigitalWrite:sensor.activePeripheral PinNumber:6 Value:LOW];
         
     }
     
@@ -469,12 +469,13 @@
     
     if (D7switch.on)
     {
-        [sensor TAHPin7digitalWrite:sensor.activePeripheral HIGH:YES];
+        [sensor TAHdigitalWrite:sensor.activePeripheral PinNumber:7 Value:HIGH];
     }
     
     else
     {
-        [sensor TAHPin7digitalWrite:sensor.activePeripheral HIGH:NO];
+        [sensor TAHdigitalWrite:sensor.activePeripheral PinNumber:7 Value:LOW];
+        
     }
     
     
@@ -486,12 +487,12 @@
     
     if (D8switch.on)
     {
-        [sensor TAHPin8digitalWrite:sensor.activePeripheral HIGH:YES];
+        [sensor TAHdigitalWrite:sensor.activePeripheral PinNumber:8 Value:HIGH];
     }
     
     else
     {
-        [sensor TAHPin8digitalWrite:sensor.activePeripheral HIGH:NO];
+        [sensor TAHdigitalWrite:sensor.activePeripheral PinNumber:8 Value:LOW];
         
     }
     
@@ -504,12 +505,12 @@
     
     if (D9switch.on)
     {
-        [sensor TAHPin9digitalWrite:sensor.activePeripheral HIGH:YES];
+        [sensor TAHdigitalWrite:sensor.activePeripheral PinNumber:9 Value:HIGH];
     }
     
     else
     {
-        [sensor TAHPin9digitalWrite:sensor.activePeripheral HIGH:NO];
+        [sensor TAHdigitalWrite:sensor.activePeripheral PinNumber:9 Value:LOW];
         
     }
     
@@ -522,12 +523,12 @@
     
     if (D10switch.on)
     {
-        [sensor TAHPin10digitalWrite:sensor.activePeripheral HIGH:YES];
+        [sensor TAHdigitalWrite:sensor.activePeripheral PinNumber:10 Value:HIGH];
     }
     
     else
     {
-        [sensor TAHPin10digitalWrite:sensor.activePeripheral HIGH:NO];
+        [sensor TAHdigitalWrite:sensor.activePeripheral PinNumber:10 Value:LOW];
         
     }
     
@@ -540,12 +541,13 @@
     
     if (D11switch.on)
     {
-        [sensor TAHPin11digitalWrite:sensor.activePeripheral HIGH:YES];
+        [sensor TAHdigitalWrite:sensor.activePeripheral PinNumber:11 Value:HIGH];
     }
     
     else
     {
-        [sensor TAHPin11digitalWrite:sensor.activePeripheral HIGH:NO];
+        [sensor TAHdigitalWrite:sensor.activePeripheral PinNumber:11 Value:LOW];
+        
     }
     
     
@@ -557,12 +559,13 @@
     
     if (D12switch.on)
     {
-        [sensor TAHPin12digitalWrite:sensor.activePeripheral HIGH:YES];
+        [sensor TAHdigitalWrite:sensor.activePeripheral PinNumber:12 Value:HIGH];
     }
     
     else
     {
-        [sensor TAHPin12digitalWrite:sensor.activePeripheral HIGH:NO];
+        [sensor TAHdigitalWrite:sensor.activePeripheral PinNumber:12 Value:LOW];
+        
     }
     
     
@@ -574,18 +577,15 @@
     
     if (D13switch.on)
     {
-        [sensor TAHPin13digitalWrite:sensor.activePeripheral HIGH:YES];
-        tahL13led.image = [UIImage imageNamed:@"ledb"] ;
-
+        [sensor TAHdigitalWrite:sensor.activePeripheral PinNumber:13 Value:HIGH];
+        tahL13led.image = [UIImage imageNamed:@"ledg"] ;
     }
     
     else
     {
-        
-        [sensor TAHPin13digitalWrite:sensor.activePeripheral HIGH:NO];
+        [sensor TAHdigitalWrite:sensor.activePeripheral PinNumber:13 Value:LOW];
         tahL13led.image = [UIImage imageNamed:@"ledoff"] ;
 
-        
     }
     
     

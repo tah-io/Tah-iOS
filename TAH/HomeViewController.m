@@ -175,7 +175,7 @@
         
         detailViewController.sensor = self.sensor;
         
-        detailViewController.title = @"IO CONTROL";
+        detailViewController.title = @"IO Control";
         
         
         
@@ -187,7 +187,7 @@
         
         detailViewController.sensor = self.sensor;
         
-        detailViewController.title = @"PWM CONTROL";
+        detailViewController.title = @"PWM Control";
     }
     
     
@@ -197,7 +197,7 @@
         
         detailViewController.sensor = self.sensor;
         
-        detailViewController.title = @"ANALOG CONTROL";
+        detailViewController.title = @"Analog Control";
     }
     
     
@@ -207,7 +207,7 @@
         
         detailViewController.sensor = self.sensor;
         
-        detailViewController.title = @"SETTINGS";
+        detailViewController.title = @"Settings";
     }
     
     

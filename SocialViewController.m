@@ -40,6 +40,7 @@
     [self UpdateConnectionStatusLabel];
 }
 
+
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
@@ -81,7 +82,7 @@
     
     fbsheet = [[SLComposeViewController alloc] init];
     fbsheet = [SLComposeViewController composeViewControllerForServiceType:SLServiceTypeFacebook];
-    [fbsheet setInitialText:@"Hi Guys, Check out this cool innovation platform: http://www.tah.io"];
+    [fbsheet setInitialText:@"You should check out Tah, the Arduino-compatible BLE development board: http://www.tah.io"];
    
     
     [self presentViewController:fbsheet animated:YES completion:nil];
@@ -91,7 +92,7 @@
     
     tweetsheet = [[SLComposeViewController alloc] init];
     tweetsheet = [SLComposeViewController composeViewControllerForServiceType:SLServiceTypeTwitter];
-    [tweetsheet setInitialText:@"Hi Guys, Check out this cool innovation platform: http://www.tah.io"];
+    [tweetsheet setInitialText:@"You should check out Tah, the Arduino-compatible BLE development board: http://www.tah.io"];
     
     
     [self presentViewController:tweetsheet animated:YES completion:nil];
